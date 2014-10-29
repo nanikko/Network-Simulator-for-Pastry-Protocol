@@ -1,6 +1,6 @@
 ###Pastry, Overlay network for decentralized object location and routing
 
-Implemented self-organizing and self-adaptive **Pastry*** API, with dynamic network join and route methods, that can be used to provide services for implementing Distributed Hash tables, peer discovery in a peer-to-peer network, group communication, naming and global storage.
+Implemented self-organizing and self-adaptive **Pastry** API, with dynamic network join and route methods, that can be used to provide services for implementing Distributed Hash tables, peer discovery in a peer-to-peer network, group communication, naming and global storage.
 
 Project was implemented as per the specifications in the research paper [Pastry: Scalable, decentralized object location and routing for large-scale peer-to-peer systems](http://research.microsoft.com/en-us/um/people/antr/PAST/pastry.pdf)
 
